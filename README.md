@@ -10,6 +10,12 @@ Ce projet vise à construire une **plateforme intelligente** combinant plusieurs
 - Analyser le **sentiment des actualités financières**
 - Regrouper les entreprises similaires par **clustering**
 - Générer automatiquement un **rapport PDF stylisé par entreprise**
+  
+---
+
+## 📄 Exemple de rapport PDF
+
+![Exemple de rapport](report_exemple.png)
 
 ---
 
