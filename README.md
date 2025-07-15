@@ -15,7 +15,7 @@ Ce projet vise à construire une **plateforme intelligente** combinant plusieurs
 
 ## 📄 Exemple de rapport PDF
 
-![Exemple de rapport](report_exemple.png)
+![Exemple de rapport](report_example.png)
 
 ---
 
